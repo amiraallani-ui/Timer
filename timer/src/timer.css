@@ -1,0 +1,19 @@
+.section{
+    background-image: url('./1.jpg');
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.text{
+    color:white;
+}
+
+.btn{
+    height: 50px;
+    width: 300px;
+    border: none;
+    border-radius:1px ;
+}
